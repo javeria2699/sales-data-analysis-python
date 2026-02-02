@@ -31,7 +31,7 @@ The goal is to simulate a real-world data analyst workflow and present insights 
 
 ## 📁 Files Included
 - `sales_data_analysis.ipynb` – Main analysis notebook
-- `data/` – Dataset (if applicable)
+- `data/` – Dataset 
 
 ---
 
